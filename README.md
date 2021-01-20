@@ -1,6 +1,6 @@
 # UNet-with-Pytorch
 
-Unet from Pytorch from Sratch.
+Unet from Pytorch from Scratch.
 <br>
 <br>
 
