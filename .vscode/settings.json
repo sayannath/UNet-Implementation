@@ -4,4 +4,6 @@
         "activityBarBadge.foreground": "#f8f8f8",
         "activityBar.inactiveForeground": "#4BF7CB"
     },
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
 }
