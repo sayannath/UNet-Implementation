@@ -6,4 +6,5 @@
     },
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
+    "python.pythonPath": "/Users/sayannath/Desktop/U-Net/env/bin/python3",
 }
