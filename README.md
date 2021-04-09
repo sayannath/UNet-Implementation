@@ -1,6 +1,6 @@
-# UNet-with-Pytorch
+# UNet
 
-Unet from Pytorch from Scratch.
+Unet with Pytorch and Keras from Scratch.
 <br>
 <br>
 
