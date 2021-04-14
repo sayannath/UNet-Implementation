@@ -1,3 +1,11 @@
+![GitHub forks](https://img.shields.io/github/forks/sayannath/UNet-Implementation?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/sayannath/UNet-Implementation?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/sayannath/UNet-Implementation?style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/SayanNa20204009?style=for-the-badge)
+<a href="https://github.com/sayannath/UNet-Implementation/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sayannath/UNet-Implementation" />
+</a>
+
 # UNet
 
 Unet with Pytorch and Keras from Scratch.
