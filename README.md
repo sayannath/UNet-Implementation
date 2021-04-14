@@ -6,7 +6,7 @@
   <img src="https://contrib.rocks/image?repo=sayannath/UNet-Implementation" />
 </a>
 
-# UNet
+# U-Net: Convolutional Networks for Biomedical Image Segmentation
 
 Unet with Pytorch and Keras from Scratch.
 <br>
